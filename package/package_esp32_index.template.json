@@ -142,10 +142,10 @@
             },
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2021r1/xtensa-esp32-elf-gcc8_4_0-esp-2021r1-win32.zip",
-              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2021r1-win32.zip",
-              "checksum": "SHA-256:e4f9fdda192abfc9807e3e7fcd6e9fea30c1a0cf3f3c5a5c961b5114fc8c9b7e",
-              "size": "105603626"
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2020r3/xtensa-esp32-elf-gcc8_4_0-esp-2020r3-win32.zip",
+              "archiveFileName": "xtensa-esp32-elf-gcc8_4_0-esp-2020r3-win32.zip",
+              "checksum": "SHA-256:81cecd5493a3fcf2118977f3fd60bd0a13a4aeac8fe6760d912f96d2c34fab66",
+              "size": "104226379"
             }
           ]
         },
